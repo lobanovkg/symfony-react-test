@@ -1,0 +1,7 @@
+index:
+    path: /
+    controller: App\Controller\HomeController::index
+
+search:
+    path: /search
+    controller: App\Controller\SearchController::search
